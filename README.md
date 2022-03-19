@@ -4,7 +4,7 @@ This repository contains a streamlit web application that is connected to the US
 We can then use this dashboard to ...
 - Display earthquakes on an interactive Plotly map
 - Filter earthquakes by magnitude size
-- Filter earthquakes by date of occurence
+- Filter earthquakes by date of occurence  
 <br></br>
 ## What is Streamlit? 📊
 Streamlit is a very helpful python library which can be used to help generate beautiful and powerful dashboards that can be deployed as web-applications. They are highly customizable, and the library has an easy to learn syntax which is simple to incorporate into your code. 
@@ -29,6 +29,9 @@ Run the streammlit application (should launch an instance of the application on 
 ```
 streamlit run streamlit_app/eq_dashboard.py
 ```
+<br></br>
+*Sample of Dashboard Appearance:*  
+<img src="https://user-images.githubusercontent.com/72955075/159129271-22e3d01f-d968-42a2-abb4-d2cdc823a01c.png" width="600">
 <br></br>
 <br></br>
 ## Future Improvements 💡
